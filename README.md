@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://github.com/user-attachments/assets/0b850436-98c7-49ea-ab7a-5842e0249d9e" align="right" width="425" height="350">
+<img src="https://github.com/user-attachments/assets/0b850436-98c7-49ea-ab7a-5842e0249d9e" align="right" width="400" height="300">
 
 Hi! Welcome to my GitHub landing page!<br>I'm Anandhi, a first year Computer Science Engineering student<br>at Malla Reddy University.<br>My fascination with problem-solving through logical design and <br>the transformation power of technology drew me to the dynamic<br>field of computer science engineering.<br><br>🔭 I’m currently working on Bitcoin Price Prediction with <br>      Machine Learning.<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about my university and work experience!<br>💬 Reach me at anandhinallaganti@gmail.com<br>⚡ Fun fact : I'm an aquarium zen master :)
 
